@@ -1,2 +1,2 @@
 # DBSCAN
-[Link to application](https://tarantuviez-8.herokuapp.com/)
+[Link to application](https://tarantuviez-6.herokuapp.com/)
