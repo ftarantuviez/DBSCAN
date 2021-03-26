@@ -179,6 +179,6 @@ st.pyplot(fig)
 st.write("""
 ## App repository
 
-[Github](https://github.com/ftarantuviez/)TODO
+[Github](https://github.com/ftarantuviez/DBSCAN)
 """)
 # / This app repository
